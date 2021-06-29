@@ -16,3 +16,4 @@
 |[ticker](https://github.com/achannarasappa/ticker)|4.2.0|2021/06/09 12:28|Terminal stock ticker with live updates and position tracking|
 |[timetrace](https://github.com/dominikbraun/timetrace)|0.9.0|2021/06/09 12:37|Simple time tracking CLI|
 |[winsw](https://github.com/winsw/winsw)|2.11.0|2021/04/15 18:31|A wrapper executable that can run any executable as a Windows service|
+|[ziglang-master](https://ziglang.org/)|0.9.0-dev.327+2c385e58f|2021/06/29 11:19|General-purpose programming language designed for robustness, optimality, and maintainability.|
