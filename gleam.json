@@ -1,13 +1,13 @@
 {
-    "version": "0.15.1",
+    "version": "0.16.1",
     "description": "A type safe language for the Erlang VM",
     "license": "Apache-2.0",
     "homepage": "https://github.com/gleam-lang/gleam",
     "depends": "erlang",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gleam-lang/gleam/releases/download/v0.15.1/gleam-v0.15.1-windows-64bit.zip",
-            "hash": "46a3436c2c83ae731fc4582dcc3aeeb558b20958ed509052043f3b3b1501a39c"
+            "url": "https://github.com/gleam-lang/gleam/releases/download/v0.16.1/gleam-v0.16.1-windows-64bit.zip",
+            "hash": "8d959af21271f9c8b98418290f020f264d6c04b6d8ee4e8b393003f5c71bd4a7"
         }
     },
     "bin": "gleam.exe",
