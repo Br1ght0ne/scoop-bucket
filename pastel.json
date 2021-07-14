@@ -1,15 +1,15 @@
 {
-    "version": "0.8.0",
+    "version": "0.8.1",
     "description": "A command-line tool to generate, analyze, convert and manipulate colors",
     "license": "Apache-2.0",
     "homepage": "https://github.com/sharkdp/pastel",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/sharkdp/pastel/releases/download/v0.8.0/pastel-v0.8.0-x86_64-pc-windows-msvc.zip",
-            "hash": "90e4016f23cce601480f39f4d2fa3891c0abbd352f2b3fb83385c8a6a5a59477"
+            "url": "https://github.com/sharkdp/pastel/releases/download/v0.8.1/pastel-v0.8.1-x86_64-pc-windows-msvc.zip",
+            "hash": "41918323cbdb7b65b92b1c976d2b6233e0a3e7bb87431e560c9563553f44ef16"
         }
     },
-    "extract_dir": "pastel-v0.8.0-x86_64-pc-windows-msvc",
+    "extract_dir": "pastel-v0.8.1-x86_64-pc-windows-msvc",
     "bin": "pastel.exe",
     "checkver": "github",
     "autoupdate": {
