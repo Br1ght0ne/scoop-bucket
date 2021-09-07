@@ -3,6 +3,7 @@
 |[cargo-crev](https://github.com/crev-dev/cargo-crev)|0.20.0|2021/06/09 12:28|A cryptographically verifiable code review system for the cargo (Rust) package manager|
 |[cdda-game-launcher](https://github.com/remyroy/CDDA-Game-Launcher)|1.5.5|2021/07/14 14:59|A Cataclysm: Dark Days Ahead launcher with additional features|
 |[cheat-engine](https://cheatengine.org/index.php)|7.2|2021/06/09 12:29|Tool for modifying/debugging single player games and applications.|
+|[dijo](https://github.com/NerdyPepper/dijo)|0.2.7|2021/09/07 16:27|scriptable, curses-based, digital habit tracker|
 |[elvish](https://github.com/elves/elvish)|0.15.0|2021/04/09 17:50|Expressive Programming Language + Versatile Interactive Shell|
 |[fend](https://github.com/printfn/fend)|0.1.21|2021/07/14 14:59|Arbitrary-precision unit-aware calculator|
 |[fselect](https://github.com/jhspetersson/fselect)|0.7.6|2021/07/14 14:59|Find files with SQL-like queries|
